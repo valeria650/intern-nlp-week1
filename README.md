@@ -20,14 +20,14 @@ This repository serves as the central workspace for internship activities, Artif
 **Repository Structure**
 
 ```
-BUAIIR-Internship-2026/
+intern-nlp-week1/
 │
-├── resources/              # Learning resources, tutorials, papers, slides
-├── templates/              # Project and notebook templates
-├── weekly-assignments/     # Assignment instructions
-├── shared-projects/        # Group projects
-├── final-projects/         # Final internship projects
-└── students/               # Individual student work
+├── Kasibante Simon/  
+├── Namakali Jacob/   
+├── Gimono Grace/    
+├── Nakato Valeria/ 
+├── Mangara Emma Fred/  
+└── Ogwee Ronald/    
 ```
 
 Each intern should work **only inside their assigned folder** under the `students/` directory.
@@ -35,9 +35,9 @@ Each intern should work **only inside their assigned folder** under the `student
 Example:
 
 ```
-students/
-└── Jane_Doe/
-    ├── Week01/
+intern-nlp-week1/
+└── Gimono Grace/
+    ├── Week01/ # include a report of your findings and a notebook
     ├── Week02/
     ├── Week03/
     └── Final_Project/
